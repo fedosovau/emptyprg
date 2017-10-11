@@ -1,3 +1,3 @@
 DESCRIPTION
 
-Empty sceleton project
+Empty skeleton project
